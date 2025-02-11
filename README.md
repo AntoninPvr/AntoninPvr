@@ -38,7 +38,7 @@
 
 <h4 aligh="left">Tools & IDE</h4>
 <p align="left">
-<a href="https://www.st.com/content/st_com/en/ecosystems/stm32cube-ecosystem.html" target="_blank" rel="noreferrer"> <img src="https://www.st.com/content/dam/campaign-pages/images/stm32cube.svg" alt="stm32cube" width="40" height="40"/> </a>
+<a href="https://www.st.com/content/st_com/en/ecosystems/stm32cube-ecosystem.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/16562333/54928769-ba986300-4f14-11e9-91d7-ecc6640d1989.png" alt="stm32cube" width="40" height="40"/> </a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://platformio.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" alt="platformio" width="40" height="40"/> </a>
@@ -64,7 +64,6 @@
 <h4 align="left">Operating systems</h4>
 <p align="left">
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://unix.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unix/unix-original.svg" alt="unix" width="40" height="40"/> </a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/594d0a0c-Canonical%20Ubuntu%20Dark.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg" alt="yocto-project" width="40" height="40"/> </a>
