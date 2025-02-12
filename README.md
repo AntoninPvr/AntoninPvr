@@ -2,7 +2,7 @@
 
 <br>
 
-<h2><a href="https://antoninpvr.github.io/website/" >My website</a> </h2>
+<h2><a href="https://antoninpvr.github.io/" >My website</a> </h2>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
