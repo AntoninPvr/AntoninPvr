@@ -54,7 +54,7 @@
 <h4 aligh="left">CAD</h4>
 <p align="left">
 <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" alt="kicad" width="80" height="40"/> </a>
-<a href="https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c0/Linear_Technology_Corporation_logo.svg" alt="ltspice" width="100" height="30"/> </a>
+<a href="https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/ltspice.png" alt="ltspice" width="100" height="30"/> </a>
 <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" width="100" height="30"/> </a>
 <a href="https://github.com/prusa3d/PrusaSlicer/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prusa3d/PrusaSlicer/refs/heads/master/resources/icons/PrusaSlicer.svg" alt="prusa-slicer" width="40" height="40"/> </a>
 </p>
